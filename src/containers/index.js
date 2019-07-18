@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Form, Segment, Input, Button, Dropdown } from 'semantic-ui-react';
 
+
 class Home extends Component {
     render() {
         const options = [
